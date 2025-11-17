@@ -21,6 +21,7 @@
     - wlogout
     - cava
     - yay
+    - nautilus
 
 
 **Yay**
