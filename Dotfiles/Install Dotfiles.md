@@ -35,7 +35,7 @@
 
 ## Fix Bugs and Configure
 
-- Uncomment Line 7 in `~/.config/hypr/configs/Useranimations.conf`: `bezier = been2, 0,.94,.5,.99`
+- Comment out Line 7 in `~/.config/hypr/configs/Useranimations.conf`: `bezier = been2, 0,.94,.5,.99`
 - Edit `~/.config/hypr/configs/input.conf`
     - Set KB-Layout to CH
     - Uncomment whole section `gestures {}`
