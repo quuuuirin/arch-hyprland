@@ -1,6 +1,6 @@
 # Dotfiles install
 
-## Required Programs:
+## Required packages:
 
 **Pacman**
 
@@ -64,6 +64,7 @@
         sudo chmod +x ~/.config/hypr/scripts/*
 
 - Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
+
 
 
 
