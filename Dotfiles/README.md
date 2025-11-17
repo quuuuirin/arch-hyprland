@@ -7,7 +7,8 @@
     - hyprland 
     - wayland 
     - xorg-xwayland 
-    - mesa libinput 
+    - mesa 
+    - libinput 
     - libdrm 
     - libxkbcommon 
     - wayland-protocols 
@@ -64,6 +65,7 @@
         sudo chmod +x ~/.config/hypr/scripts/*
 
 - Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
+
 
 
 
