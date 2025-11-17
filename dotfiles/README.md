@@ -57,6 +57,7 @@
     - Set monitor settings to: `monitor=,preferred,auto,1.3333334`
  
 - Install oh-my-zsh!
+  
         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 - Install the already activated zsh-Plugins: 
@@ -69,6 +70,7 @@
         sudo chmod +x ~/.config/hypr/scripts/*
 
 - Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
+
 
 
 
