@@ -1,4 +1,4 @@
-# Dotfiles install (https://github.com/binnewbs/arch-hyprland.git)
+# Dotfiles install
 
 ## Required Programs:
 
@@ -64,5 +64,6 @@
         sudo chmod +x ~/.config/hypr/scripts/*
 
 - Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
+
 
 
