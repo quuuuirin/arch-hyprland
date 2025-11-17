@@ -2,6 +2,8 @@
 
 ## Required Programs:
 
+**Pacman**
+
     - hyprland 
     - wayland 
     - xorg-xwayland 
@@ -15,6 +17,16 @@
     - waybar 
     - rofi 
     - networkmanager
+    - matugen
+    - wlogout
+    - cava
+    - yay
+
+
+**Yay**
+
+    - unimatrix
+    - peaclock
 
 
 ## Delete old config
@@ -41,5 +53,15 @@
     - Uncomment whole section `gestures {}`
 - Edit `hyprland.conf`
     - Set monitor settings to: `monitor=,preferred,auto,1.3333334`
+- Install the already activated zsh-Plugins: 
+
+        git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+        git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+- Make all scripts executable:
+        
+        sudo chmod +x ~/.config/hypr/scripts/*
+
+- Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
 
 
