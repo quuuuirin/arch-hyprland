@@ -72,6 +72,10 @@
 - Copy `wallpapers`-Folder into `~/Pictures/wallpapers`
 
 
+## Fix .config Ownership
+
+If Waybar or swww dont work correctly, try: `sudo chown -R $USER:$USER ~/.config`
+
 
 
 
