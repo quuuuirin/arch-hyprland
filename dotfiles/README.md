@@ -23,7 +23,7 @@
     - cava
     - yay
     - nautilus
-
+    - pamixer
 
 **Yay**
 
@@ -75,6 +75,7 @@
 ## Fix .config Ownership
 
 If Waybar or swww dont work correctly, try: `sudo chown -R $USER:$USER ~/.config`
+
 
 
 
