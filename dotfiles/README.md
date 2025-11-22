@@ -24,6 +24,7 @@
     - yay
     - nautilus
     - pamixer
+    - brightnessctl
 
 **Yay**
 
@@ -75,6 +76,7 @@
 ## Fix .config Ownership
 
 If Waybar or swww dont work correctly, try: `sudo chown -R $USER:$USER ~/.config`
+
 
 
 
